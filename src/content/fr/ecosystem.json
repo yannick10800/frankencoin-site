@@ -4,7 +4,7 @@
 		"subtitle": "Payez, échangez, empruntez, achetez des actions tokenisées, convertissez en monnaie fiduciaire et bien plus encore avec des outils construits sur le protocole Frankencoin."
 	},
 	"intro": {
-		"title": "Parcourez et recherchez des projets utilisant Frankencoin.",
+		"title": "Parcourez et recherchez les projets utilisant Frankencoin.",
 		"subtitle": "Vous construisez quelque chose d'intéressant?",
 		"cta": {
 			"label": "Soumettez votre projet.",
@@ -25,7 +25,7 @@
 			"imageAlt": "Aktionariat Logo",
 			"badge": "Tokenization",
 			"category": "Tokenization",
-			"description": "Aktionariat AG est une société suisse basée à Zurich. Son objectif est de permettre aux entreprises suisses de créer un marché pour leurs actions. Étant donné que seule une fraction des entreprises suisses sont cotées en bourse, la vision d'Aktionariat est de changer fondamentalement cette situation en créant des marchés liquides pour des milliers d'entreprises suisses supplémentaires, libérant potentiellement des milliards de valeur économique dormante. Cette stratégie vise à offrir aux entreprises un meilleur accès au capital et à élargir considérablement le spectre d'investissement pour les investisseurs, favorisant l'investissement de valeur à long terme et établissant une culture de finance durable, transparente et décentralisée.",
+			"description": "Aktionariat AG est une société suisse basée à Zurich. Son objectif est de permettre aux entreprises suisses de créer un marché pour leurs actions. Seul une fraction des entreprises suisses sont cotées en bourse, la vision d'Aktionariat est de changer fondamentalement cette situation en créant des marchés liquides pour des milliers d'entreprises suisses supplémentaires, libérant potentiellement des milliards de valeur économique dormante. Cette stratégie vise à offrir aux entreprises un meilleur accès au capital et d'élargir considérablement le spectre d'investissement pour les investisseurs, favorisant l'investissement de valeur à long terme et établissant une culture de finance durable, transparente et décentralisée.",
 			"linkLabel": "aktionariat.com"
 		},
 		{
